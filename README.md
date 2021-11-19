@@ -1,5 +1,5 @@
 # seller
-
+提供一个桌面端的商城管理员前端，使用vue、elementui。。。
 ## Project setup
 ```
 npm install
